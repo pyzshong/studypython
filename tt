@@ -1,0 +1,6 @@
+str="'how are you'"
+print(str)
+str1='''how
+are you'''
+print(str1)
+
